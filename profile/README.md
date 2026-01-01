@@ -7,6 +7,9 @@ project that they can add to their data science portfolio and take their first s
 
 The current syllabus for the course can be viewed [here](https://docs.google.com/document/d/1yWCfSXEGa5wHeZee4jf1kNe_0J_lXZQZ5G-qjr1xNUI/edit?usp=sharing).
 
+## Course Materials
+
+- [Project Starter Materials](https://github.com/COGS119/project_materials)
 
 ## Winter 2026 Projects
 
